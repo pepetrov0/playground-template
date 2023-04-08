@@ -1,9 +1,9 @@
-
 #include "raylib.h"
 
 int main() {
   InitWindow(853, 480, "Playground");
   SetTargetFPS(60);
+
   while (!WindowShouldClose()) {
     BeginDrawing();
 
