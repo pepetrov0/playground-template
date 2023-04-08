@@ -8,7 +8,7 @@ See the official GitHub docs on how to use a template repository to create your 
 
 ## Included dependencies
 
-- Raylib
+- [Raylib](https://www.raylib.com)
 
 ## License
 
